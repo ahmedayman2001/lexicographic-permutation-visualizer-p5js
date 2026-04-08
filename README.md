@@ -61,7 +61,7 @@ This makes the algorithm visually interactive instead of static output.
 
 ## 🧮 Algorithm Used
 
-### Next Permutation (O(N))
+### Next Permutation (O(N!))
 
 Steps:
 1. Find first decreasing element from right
