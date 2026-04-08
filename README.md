@@ -3,6 +3,7 @@
 An interactive visualization tool built with **p5.js** that generates all lexicographic permutations of an input array and allows step-by-step exploration while comparing two target arrays.
 
 ---
+[![l1.png](https://i.postimg.cc/j2JYx44K/l1.png)](https://postimg.cc/zH5cpWQP)
 
 ## 🎯 Built With
 
