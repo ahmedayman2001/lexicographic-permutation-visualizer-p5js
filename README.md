@@ -8,7 +8,6 @@ An interactive visualization tool built with **p5.js** that generates all lexico
 
 - :contentReference[oaicite:0]{index=0}
 - HTML5
-- CSS3
 - JavaScript (ES6)
 
 ---
