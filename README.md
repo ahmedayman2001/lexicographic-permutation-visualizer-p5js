@@ -5,7 +5,7 @@ An interactive visualization tool built with **p5.js** that generates all lexico
 ---
 [![l1.png](https://i.postimg.cc/j2JYx44K/l1.png)](https://postimg.cc/zH5cpWQP)
 
-## 🎯 Built With
+##  Built With
 
 - :contentReference[oaicite:0]{index=0}
 - HTML5
@@ -13,7 +13,7 @@ An interactive visualization tool built with **p5.js** that generates all lexico
 
 ---
 
-## ✨ Features
+##  Features
 
 - Generate all permutations in lexicographic order
 - Step-by-step visualization using canvas animation
@@ -28,7 +28,7 @@ An interactive visualization tool built with **p5.js** that generates all lexico
 
 ---
 
-## 🧠 Visualization Concept (p5.js)
+##  Visualization Concept (p5.js)
 
 The project uses **p5.js draw loop system**:
 
@@ -55,12 +55,12 @@ This makes the algorithm visually interactive instead of static output.
 
 3. Visualization:
    - Click **Start Visualization**
-   - Click **Next Step ➡️**
+   - Click **Next Step **
    - Watch permutations appear one by one
 
 ---
 
-## 🧮 Algorithm Used
+##  Algorithm Used
 
 ### Next Permutation (O(N!))
 
@@ -72,12 +72,12 @@ Steps:
 
 ---
 
-## 🖥️ UI Controls
+##  UI Controls
 
 | Button | Function |
 |--------|----------|
 | Start Visualization | Generate permutations |
-| Next Step ➡️ | Show next permutation |
+| Next Step  | Show next permutation |
 
 ---
 
